@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "lib": ["ES2017", "DOM"],
+        "module": "commonjs",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true
+    }, // Adjust this based on your file structure
+    "exclude": ["node_modules"]
+ }
+ 

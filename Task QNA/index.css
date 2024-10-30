@@ -1,0 +1,60 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  #wrapper {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  
+  #List {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 50px;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  
+  .optionButtons {
+    display: block;
+    width: 100%;
+    background-color: #3498db;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 10px;
+  }
+  
+  .green{
+    background-color: green !important;
+  }
+  
+  
+  .gray{
+    background-color: gray !important;
+  }
+  
+      
+        .red{
+          background-color: red !important;
+        }
+        
